@@ -1,4 +1,8 @@
-### Hi there 👋
+## About Me
+test
+
+
+
 
 <!--
 **melvin2204/melvin2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2554ap9il5emhibsa1ce1r8ld&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=2554ap9il5emhibsa1ce1r8ld&redirect=true)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=melvin2204&&style=flat-square)
